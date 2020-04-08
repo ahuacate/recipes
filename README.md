@@ -14,6 +14,7 @@ Prerequisites are:
 
 | Half Batch | Full Batch | Ingredient | Notes
 | :---:  | :---: | :--- | :---
+| 6 rolls | 12 rolls
 | **For the Dough**
 | 0,5 | 1 | Cup warm milk | *About 45deg C*
 | 1,25 tps | 2,5 tps | Instant dry yeast
