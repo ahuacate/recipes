@@ -55,6 +55,8 @@ Turn out the dough onto the pastry mat. Using your fingers gently form the dough
 ### 1.04 Step 4
 Now spread all the filling mixure across the rolled dough leaving edge closest to you clean (about 20mm, to help with sealing the finished roll).
 
+![alt text](https://raw.githubusercontent.com/ahuacate/recipes/master/photos/141534.jpg)
+
 ### 1.05 Step 5 
 Starting on the far edge, roll the dough up tightly jelly roll style. Cut into 6 slices (based on half batch) using the string method and place in two greased 8½ x 4½ x 2½ inch Loaf Pans. So you have 3x rolls per pan.
 
@@ -62,6 +64,8 @@ Starting on the far edge, roll the dough up tightly jelly roll style. Cut into 6
 
 ### 1.05 Step 6
 Cover the pans and allow the rolls to rise for 60 minutes or until nearly double. Its 60min in my oven set on ferment 40C.
+
+![alt text](https://raw.githubusercontent.com/ahuacate/recipes/master/photos/141530.jpg)
 
 ### 1.06 Step 7
 Preheat the oven to 190C (180C if fan forced). Warm the heavy cream until the chill is off. Don’t make it hot, you just don’t want it cold. It should be warm to the touch.
@@ -71,6 +75,8 @@ Once the rolls have risen, pour the heavy cream over the top of the rolls, allow
 Bake at 180C (fan forced) for 16 minutes, until the rolls are lightly golden brown and the center rolls are cooked through.
 
 The time will vary based on how big the rolls are, what type of pan, how close the rolls are packed, etc. They could take up to 25 minutes. For me 16 minutes @ 180C fan forced was perfect.
+
+![alt text](https://raw.githubusercontent.com/ahuacate/recipes/master/photos/141529.jpg)
 
 ### 1.07 Step 8
 Never done this step as the stranger half doesnt like cheese frosting. 
