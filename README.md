@@ -1,8 +1,8 @@
 # Recipes - The Good Stuff
-Stuff that works in the kitchen.
+Stuff that works in the kitchen. Recipes which we deem as officially hacked.
 
 Index of stuff:
-- [1.00 Cinnabon Hacks](#100-cinnabon-hacks)
+- [1.00 Cinnabon uns](#100-cinnabon-buns)
 	- [1.01 Step 1](#101-step-1)
 	- [1.02 Step 2](#102-step-2)
 	- [1.03 Step 3](#103-step-3)
@@ -14,13 +14,13 @@ Index of stuff:
 	- [1.08 Step 9](#108-step-9)
 	- [1.09 Step 10](#109-step-10)
 
-## 1.00 Cinnabon Hacks
-This recipe is a hash of many sources and works for us.
+## 1.00 Cinnabon Buns
+This recipe works for us.
 
 Prerequisites are:
-- [x] A Panasonic bread maker which has a dough only function and a yeast dispenser. Life saver.
-- [x] Oven of course
-- [x] A partner who does'nt get fat eating a whole batch of Cinnabons in one day!
+- [x] A Panasonic bread maker (or any brand) which has a dough only function and a yeast dispenser. Life saver.
+- [x] A oven.
+- [x] A partner who doesn't get fat eating a six Cinnabons in one day!
 
 
 | Half Batch | Full Batch | Ingredient | Notes
@@ -50,22 +50,22 @@ Prerequisites are:
 | 0,25 tbs | 0,5 tbs | Maple extract or vanilla essence
 
 ### 1.01 Step 1 
-Pour the warm milk into your bread machine. Add the eggs, butter, salt and sugar. Add the yeast into the dispenser. Start the machine on the dough function. 
+Pour the warm milk into your bread machine. Add the flour, eggs, butter, salt and sugar. Add the yeast into the dispenser. Start the machine on the dough function. 
 
-Its Menu 9 on my Panasonic Breadmaker. The whole process takes one hour and includes a warm dough rising.
+FYI the dough function is `Menu 9` on my Panasonic Breadmaker. The whole process takes about one hour and includes a warm dough rising. Its completely painless.
 
 ### 1.02 Step 2
-While the dough is rising, prepare the cinnamon filling.
+While the dough is rising, prepare your cinnamon filling.
 
 In a medium bowl, combine the soft butter, brown sugar, maple syrup or golden syrup, vanilla essense and cinnamon, mixing until well combined. Set aside.
 
 ### 1.03 Step 3
 Traditionalists, sprinkle a pastry mat generously with flour. Lazy efficient amateurs, spray your silicon rolling mat or surface with spray oil.
 
-Turn out the dough onto the pastry mat. Using your fingers gently form the dough into a rectange 35-40cm x 30cm (based on half batch measurements). Use a rolling pin if you like. I simply jab the dough with my finger tips as if I am making Focaccia.
+Turn out the dough onto the pastry mat. Using your fingers gently form the dough into a rectange 35-40cm x 30cm (based on half batch measurements).Give it time to relax bewteen stretching.  Or use a rolling pin (I don't). I simply jab the dough with my finger tips as if I am making Focaccia and ply the dough into a rectangle.
 
 ### 1.04 Step 4
-Now spread all the filling mixure across the rolled dough leaving edge closest to you clean (about 20mm, to help with sealing the finished roll).
+Now spread the filling mixure across the rolled dough leaving the edge closest to you clean (about 20mm, to help with sealing the finished roll).
 
 ![alt text](https://raw.githubusercontent.com/ahuacate/recipes/master/photos/141534.jpg)
 
@@ -75,23 +75,23 @@ Starting on the far edge, roll the dough up tightly jelly roll style. Cut into 6
 ![alt text](https://raw.githubusercontent.com/ahuacate/recipes/master/photos/141535.jpg)
 
 ### 1.05 Step 6
-Cover the pans and allow the rolls to rise for 60 minutes or until nearly double. Its 60min in my oven set on ferment 40C.
+Cover the pans and allow the rolls to rise for 60 minutes or until nearly double. Its 60min in my oven set on 40C ferment cycle.
 
 ![alt text](https://raw.githubusercontent.com/ahuacate/recipes/master/photos/141530.jpg)
 
 ### 1.06 Step 7
 Preheat the oven to 190C (180C if fan forced). Warm the heavy cream until the chill is off. Don’t make it hot, you just don’t want it cold. It should be warm to the touch.
 
-Once the rolls have risen, pour the heavy cream over the top of the rolls, allowing it to soak down in and around the rolls.
+Once the rolls have risen, drizzle the heavy cream over the top of the rolls, allowing it to soak down in and around the rolls.
 
-Bake at 180C (fan forced) for 16 minutes, until the rolls are lightly golden brown and the center rolls are cooked through.
+Bake at 180C (fan forced) for 16 minutes, or until the rolls are lightly golden brown and the center rolls are cooked through.
 
-The time will vary based on how big the rolls are, what type of pan, how close the rolls are packed, etc. They could take up to 25 minutes. For me 16 minutes @ 180C fan forced was perfect.
+The time will vary based on how big your rolls are, what type of pan, how close the rolls are packed, etc. They could take up to 20 minutes or more. For me 16 minutes @ 180C fan forced was perfect.
 
 ![alt text](https://raw.githubusercontent.com/ahuacate/recipes/master/photos/141529.jpg)
 
 ### 1.07 Step 8
-Never done this step as the stranger half doesnt like cheese frosting. 
+Never done this step as the strange better half of me doesn't like cheese frosting. But why not finish these beauties off.
 
 While the rolls are cooling, prepare the cream cheese frosting.
 
@@ -103,4 +103,4 @@ Spread the frosting over the cooled rolls. Store in an airtight container.
 Eat the little fluffy bastards.
 
 ### 1.09 Step 10
-No bread maker and you can bake. Try my source of inspiration [HERE](https://www.tastesoflizzyt.com/homemade-cinnamon-rolls/#wprm-recipe-container-18003)
+If you don't have a bread maker then order one. Or can try my source of inspiration who obviously knows what they are doing [HERE](https://www.tastesoflizzyt.com/homemade-cinnamon-rolls/#wprm-recipe-container-18003)
