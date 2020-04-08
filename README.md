@@ -30,15 +30,15 @@ Prerequisites are:
 | 0,5 | 1 | Cup warm milk | *About 45deg C*
 | 1,25 tps | 2,5 tps | Instant dry yeast
 | 1 | 2 | Large eggs at room temperature
-| 38g | 76g | Unsalted Vutter | *Room temperature cut into small cubes*
-| 315g | 630g| All-purpose flour (divided) | *These are our sweet spot weights for flour. Most recipes start with 288/576g respectively*
+| 38g | 76g | Unsalted Butter | *Room temperature cut into small cubes*
+| 315g | 630g| All-purpose flour (sifted) | *These are our sweet spot weights for flour. Most recipes start with 288/576g respectively*
 | 0,5 tps | 1,0 tps | Salt 
 | 32g | 64g | White Sugar
 | **For the Filling**
 | 57g | 114g | Butter | *Room temp, soft.*
 | 100g | 200g | Brown Sugar
 | 1 tsp | 2 tsp | Maple Syrup or Golden Syrup | *Golden syrup is best in our opinion*
-| 1 tbs | 2 tbs | Cinnamon
+| 1 tbs | 2 tbs | Cinnamon Powder
 | 0,5 tsp | 1 | Vanilla Essense
 | n/a | n/a | *Add some soft dried raisons*
 | **Prebake Topping**
