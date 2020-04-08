@@ -29,6 +29,7 @@ Prerequisites are:
 | 1 tsp | 2 tsp | Maple Syrup or Golden Syrup | *Golden syrup is best in our opinion*
 | 1 tbs | 2 tbs | Cinnamon
 | 0,5 tsp | 1 | Vanilla Essense
+| n/a | n/a | *Add some soft dried raisons*
 | **Prebake Topping**
 | 57g | 114g | Heavy Cream
 | **For the Frosting**
