@@ -18,7 +18,7 @@ Index of stuff:
 This recipe is a hash of many sources and works for us.
 
 Prerequisites are:
-- [x] Use Panasonic bread maker which has a dough only function and a yeast dispenser
+- [x] A Panasonic bread maker which has a dough only function and a yeast dispenser. Life saver.
 - [x] Oven of course
 - [x] A partner who does'nt get fat eating a whole batch of Cinnabons in one day!
 
