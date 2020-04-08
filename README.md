@@ -2,7 +2,7 @@
 Stuff that works in the kitchen. Recipes which we deem as officially hacked.
 
 Index of stuff:
-- [1.00 Cinnabon uns](#100-cinnabon-buns)
+- [1.00 Cinnabon buns](#100-cinnabon-buns)
 	- [1.01 Step 1](#101-step-1)
 	- [1.02 Step 2](#102-step-2)
 	- [1.03 Step 3](#103-step-3)
@@ -20,7 +20,7 @@ This recipe works for us.
 Prerequisites are:
 - [x] A Panasonic bread maker (or any brand) which has a dough only function and a yeast dispenser. Life saver.
 - [x] A oven.
-- [x] A partner who doesn't get fat eating a six Cinnabons in one day!
+- [x] A partner who doesn't get fat eating all six Cinnabons in one day!
 
 
 | Half Batch | Full Batch | Ingredient | Notes
