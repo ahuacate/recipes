@@ -58,6 +58,8 @@ Now spread all the filling mixure across the rolled dough leaving edge closest t
 ### 1.05 Step 5 
 Starting on the far edge, roll the dough up tightly jelly roll style. Cut into 6 slices (based on half batch) using the string method and place in two greased 8½ x 4½ x 2½ inch Loaf Pans. So you have 3x rolls per pan.
 
+![alt text](https://raw.githubusercontent.com/ahuacate/recipes/master/photos/141535.jpg)
+
 ### 1.05 Step 6
 Cover the pans and allow the rolls to rise for 60 minutes or until nearly double. Its 60min in my oven set on ferment 40C.
 
