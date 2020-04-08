@@ -7,9 +7,9 @@ Index of stuff:
 This recipe is a hash of many sources and works for us.
 
 Prerequisites are:
-- [x] Use Panasonic bread mixer which has a dough only function and a yeast dispenser
+- [x] Use Panasonic bread maker which has a dough only function and a yeast dispenser
 - [x] Oven of course
-- [x] A partner who doesnt get fat eating the whole batch of Cinnabons in one day
+- [x] A partner who does'nt get fat eating a whole batch of Cinnabons in one day!
 
 
 | Half Batch | Full Batch | Ingredient | Notes
@@ -90,3 +90,6 @@ Spread the frosting over the cooled rolls. Store in an airtight container.
 
 ### 1.08 Step 9
 Eat the little fluffy bastards.
+
+### 1.09 Step 10
+No bread maker and you can bake. Try my source of inspiration [HERE](https://www.tastesoflizzyt.com/homemade-cinnamon-rolls/#wprm-recipe-container-18003)
