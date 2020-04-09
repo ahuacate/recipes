@@ -91,7 +91,7 @@ The time will vary based on how big your rolls are, what type of pan, how close 
 ![alt text](https://raw.githubusercontent.com/ahuacate/recipes/master/photos/141529.jpg)
 
 ### 1.07 Step 8
-Never done this step as the strange better half of me doesn't like cheese frosting. But why not finish these beauties off.
+Never done this step as the better half doesn't like cheese frosting.
 
 While the rolls are cooling, prepare the cream cheese frosting.
 
