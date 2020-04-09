@@ -3,16 +3,7 @@ Stuff that works in the kitchen. Recipes which we deem as officially hacked.
 
 Index of stuff:
 - [1.00 Cinnabon buns](#100-cinnabon-buns)
-	- [1.01 Step 1](#101-step-1)
-	- [1.02 Step 2](#102-step-2)
-	- [1.03 Step 3](#103-step-3)
-	- [1.04 Step 4](#104-step-4)
-	- [1.05 Step 5](#105-step-5)
-	- [1.05 Step 6](#105-step-6)
-	- [1.06 Step 7](#106-step-7)
-	- [1.07 Step 8](#107-step-8)
-	- [1.08 Step 9](#108-step-9)
-	- [1.09 Step 10](#109-step-10)
+
 
 ## 1.00 Cinnabon Buns
 This recipe works for us.
