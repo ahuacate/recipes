@@ -94,6 +94,6 @@ Spread the frosting over the cooled rolls. Store in an airtight container.
 Eat the little fluffy bastards.
 
 ### 1.09 Step 10
-If you don't have a bread maker then buy one. Its one of those kitchen machines you buy but rarely use. But for making dough (forget baking bread in them) is a life saver.
+If you don't have a bread maker then buy one. Its one of those kitchen gadgets you rarely use and fills cupboard space. But for making dough (forget baking bread in them) it's a dream machine.
 
 Or can try the inspiration of my recipe who obviously knows what they are doing [HERE](https://www.tastesoflizzyt.com/homemade-cinnamon-rolls/#wprm-recipe-container-18003)
