@@ -9,9 +9,8 @@ Index of stuff:
 This recipe works for us.
 
 Prerequisites are:
-- [x] A Panasonic bread maker (or any brand) which has a dough only function and a yeast dispenser. Life saver.
+- [x] Spiral mixer, bread maker with dough function or any dough mixer.
 - [x] A oven.
-- [x] A partner who doesn't get fat eating all six Cinnabons in one day!
 
 
 | Half Batch | Full Batch | Ingredient | Notes
@@ -43,20 +42,20 @@ Prerequisites are:
 ### 1.01 Step 1 
 Pour the warm milk into your bread machine. Add the flour, eggs, butter, salt and sugar. Add the yeast into the dispenser. Start the machine on the dough function. 
 
-FYI the dough function is `Menu 9` on my Panasonic Breadmaker. The whole process takes about one hour and includes a warm dough rising. Its completely painless.
+FYI the dough function is `Menu 9` on my Panasonic Bread maker. The whole process takes about one hour and includes a warm dough rising. It's completely painless.
 
 ### 1.02 Step 2
 While the dough is rising, prepare your cinnamon filling.
 
-In a medium bowl, combine the soft butter, brown sugar, maple syrup or golden syrup, vanilla essense and cinnamon, mixing until well combined. Set aside.
+In a medium bowl, combine the soft butter, brown sugar, maple syrup or golden syrup, vanilla essence and cinnamon, mixing until well combined. Set aside.
 
 ### 1.03 Step 3
 Traditionalists, sprinkle a pastry mat generously with flour. Lazy efficient amateurs, spray your silicon rolling mat or surface with spray oil.
 
-Turn out the dough onto the pastry mat. Using your fingers gently form the dough into a rectange 35-40cm x 30cm (based on half batch measurements).Give it time to relax bewteen stretching.  Or use a rolling pin (I don't). I simply jab the dough with my finger tips as if I am making Focaccia and ply the dough into a rectangle.
+Turn out the dough onto the pastry mat. Using your fingers gently form the dough into a rectangle 35-40cm x 30cm (based on half batch measurements). Give it time to relax between stretching.  Or use a rolling pin (I don't).
 
 ### 1.04 Step 4
-Now spread the filling mixure across the rolled dough leaving the edge closest to you clean (about 20mm, to help with sealing the finished roll).
+Now spread the filling mixture across the rolled dough leaving the edge closest to you clean (about 20mm, to help with sealing the finished roll).
 
 ![alt text](https://raw.githubusercontent.com/ahuacate/recipes/master/photos/141534.jpg)
 
@@ -66,7 +65,7 @@ Starting on the far edge, roll the dough up tightly jelly roll style. Cut into 6
 ![alt text](https://raw.githubusercontent.com/ahuacate/recipes/master/photos/141535.jpg)
 
 ### 1.05 Step 6
-Cover the pans and allow the rolls to rise for 60 minutes or until nearly double. Its 60min in my oven set on 40C ferment cycle.
+Cover the pans and allow the rolls to rise for 60 minutes or until nearly double. It's 60 minutes in my oven set on a 40C ferment cycle.
 
 ![alt text](https://raw.githubusercontent.com/ahuacate/recipes/master/photos/141530.jpg)
 
@@ -94,6 +93,6 @@ Spread the frosting over the cooled rolls. Store in an airtight container.
 Eat the little fluffy bastards.
 
 ### 1.09 Step 10
-If you don't have a bread maker then buy one. Its one of those kitchen gadgets you rarely use and fills cupboard space. But for making dough (forget baking bread in them) it's a dream machine.
+If you don't have a bread maker then buy one. It's one of those kitchen gadgets you rarely use and fills cupboard space. But for making dough (forget baking bread in them) it's a dream machine.
 
 Or can try the inspiration of my recipe who obviously knows what they are doing [HERE](https://www.tastesoflizzyt.com/homemade-cinnamon-rolls/#wprm-recipe-container-18003)
